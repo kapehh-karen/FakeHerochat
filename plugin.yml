@@ -1,0 +1,4 @@
+name: FakeHerochat
+main: com.dthielke.herochat.Herochat
+author: kapehh
+version: 1.0.0
